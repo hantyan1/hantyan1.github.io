@@ -1,0 +1,8 @@
+html {
+  background-image: url("hantyan.jpg");
+  background-size: contain;
+  background-attachment: fixed;
+}
+.text {
+  text-align: center;
+}
